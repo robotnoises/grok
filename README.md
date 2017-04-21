@@ -13,3 +13,9 @@
 1. Clone the report (todo)
 2. Install dependencies `npm install`
 3. Run it `yarn start`
+
+### Production
+
+1. Build it `npm run build`
+2. Serve it `any web server (ex: server -s build)`
+
