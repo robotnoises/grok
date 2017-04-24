@@ -10,7 +10,7 @@
 
 ### Get started
 
-1. Clone the report (todo)
+1. Clone the repo `git clone https://github.com/robotnoises/grok.git`
 2. Install dependencies `npm install`
 3. Run it `yarn start`
 
